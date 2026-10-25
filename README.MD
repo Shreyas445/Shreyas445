@@ -19,6 +19,10 @@ AIML | Full stack | Python | IoT | React
 
 ![Top Languages](https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=Shreyas445&layout=compact&theme=github_dark)
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=Shreyas445&theme=dark&hide_border=true)
+
+![github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=Shreyas445)
+
 ## Trophies
 
 ![Trophies](https://trophygithubreadmelang.cybee.dpdns.org/?username=Shreyas445&theme=onedark&no-frame=true&no-bg=true&row=1&column=7)
