@@ -37,7 +37,7 @@ AIML | Full stack | Python | IoT | React
 
 ## GitHub Activity Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shreyas445&theme=github-dark)
+![Activity Graph](https://raw.githubusercontent.com/Shreyas445/Shreyas445/output/activity-graph.svg)
 
 ---
 
